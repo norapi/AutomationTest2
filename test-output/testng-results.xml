@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-21T18:26:02 EDT" name="Default suite" finished-at="2022-04-21T18:26:09 EDT" duration-ms="7267">
+    <groups>
+    </groups>
+    <test started-at="2022-04-21T18:26:02 EDT" name="Default test" finished-at="2022-04-21T18:26:09 EDT" duration-ms="7267">
+      <class name="pack4.J5_PratiqueWebDriver">
+        <test-method signature="explicitWaitMechanism()[pri:0, instance:pack4.J5_PratiqueWebDriver@194bcebf]" started-at="2022-04-21T18:26:02 EDT" name="explicitWaitMechanism" finished-at="2022-04-21T18:26:09 EDT" duration-ms="7239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explicitWaitMechanism -->
+      </class> <!-- pack4.J5_PratiqueWebDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
